@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+8f3aa0afc544a0f767514e3164588aa225f9d2b9 refs/heads/C1
+a49b87ae7363e3f5e528534dab8aeca1dfe665f6 refs/heads/C2
+cc983da8e6e86ea0ce76df2447bd8820975da03f refs/heads/C3
+ce0799c0de7dd5150c437a0115bded4433f554d5 refs/heads/C6
+c1aaac2cdb0d04435758b458262c4d13edc01595 refs/heads/main
+3aa1cda52894c43b3b47f77f78ae0b896d9305b0 refs/remotes/origin/cleanup/C7-9
+cc8ff783fe3c7d0b654421783415232239343544 refs/remotes/origin/codex/add-centralized-logging-and-error-reporter
+77937db06d86eec2f78862346262809c6d61a18d refs/remotes/origin/codex/create-/roll-slash-command-with-dice-and-openai-integration
+8fd8dcc82c501cb267250f83c27506985cad6985 refs/remotes/origin/codex/create-package.json-for-wilhelmina-bot
+bd9562ffcfd9a8f42c09c90f2cde16237e9180c1 refs/remotes/origin/codex/implement-discord-slash-commands-for-oracle
+4167ca1928a01f59233196820def961e775ff77c refs/remotes/origin/codex/plan-and-execute-cleanup-tasks-c1-to-c3
+9626e6ca6463deb5ce3d238cdebbfdb62f6f9625 refs/remotes/origin/codex/plan-and-implement-cleanup-tasks-c7c9
+7d90c5fe337d24df6b6b085970b9d57559f7459d refs/remotes/origin/codex/replace-package.json-and-add-.env.example
+c884ecb83dd511ab6e134780465096ffb196e4fe refs/remotes/origin/feat/onboard-command
+3aa1cda52894c43b3b47f77f78ae0b896d9305b0 refs/remotes/origin/main
+6434f907fe66360c4557f221c3bcb4fefca91367 refs/remotes/origin/tmrscg-codex/create-package.json-for-wilhelmina-bot
