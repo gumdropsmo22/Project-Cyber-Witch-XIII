@@ -1,10 +1,7 @@
-# archives
 *.tar
 *.tar.gz
 *.tgz
 *.zip
 *.7z
-*.rar
-# python caches
 __pycache__/
 *.pyc
